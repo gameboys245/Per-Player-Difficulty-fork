@@ -4,3 +4,4 @@ This adds one feature, the ability to set difficulty change timeouts. In order t
 ```
 difficulty-set-timeout-minutes: 2.0
 ````
+To download goto [releases.](https://github.com/gameboys245/Per-Player-Difficulty-fork/tree/1.0)
